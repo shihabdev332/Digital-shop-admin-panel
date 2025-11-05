@@ -3,7 +3,7 @@ import { FaCloudUploadAlt } from "react-icons/fa";
 import Title from "../component/Title";
 import Input, { Label } from "../component/ui/Input";
 import { TiPlus } from "react-icons/ti";
-import SmallLoader from "../component/smallLoader";
+import SmallLoader from "../component/SmallLoader";
 import toast from "react-hot-toast";
 import { serverUrl } from "../../config";
 import axios from "axios";
