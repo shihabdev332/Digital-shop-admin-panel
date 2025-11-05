@@ -6,7 +6,7 @@ import Loader from "../component/ui/Loader";
 import Title from "../component/Title";
 import { IoPersonAdd } from "react-icons/io5";
 import { FaTrash } from "react-icons/fa";
-import NewUserForm from "../component/newUserForm";
+import NewUserForm from "../component/NewUserForm";
 
 const Users = () => {
   const [usersList, setUsersList] = useState([]);
